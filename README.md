@@ -43,12 +43,12 @@ The **Nearby App** is the ultimate solution for discovering nearby establishment
 
 ## Screenshots and Video
 
-![Splash Screen](screenshots/1.png)
-![Instructions Screen](screenshots/2.png)
-![Home Screen](screenshots/3.png)
-![Locations](screenshots/4.png)
-![Location Details](screenshots/6.png)
-![Scanner](screenshots/5.png)
+![Splash Screen](mobile/screenshots/1.png)
+![Instructions Screen](mobile/screenshots/2.png)
+![Home Screen](mobile/screenshots/3.png)
+![Locations](mobile/screenshots/4.png)
+![Location Details](mobile/screenshots/6.png)
+![Scanner](mobile/screenshots/5.png)
 
 Check out a full video demonstration of the app in action: [YouTube - Nearby App Demo](https://youtube.com/shorts/bKtk-a0BONY)
 [![Demonstration](https://img.youtube.com/vi/bKtk-a0BONY/0.jpg)](https://youtube.com/shorts/bKtk-a0BONY)
